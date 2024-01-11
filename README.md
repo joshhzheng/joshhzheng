@@ -1,4 +1,4 @@
-Hi 👋 My name is Josh Zheng
+Hello 👋 My Name is Josh Zheng
 ===========================
 
 <p align="left">
