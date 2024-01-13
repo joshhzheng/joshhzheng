@@ -10,3 +10,4 @@ Feel free to connect with me on Linked or contact me through Email!
 - Express.js
 - Java
 - C++
+- Python
