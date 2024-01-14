@@ -7,33 +7,16 @@ Feel free to connect with me on Linked or contact me through Email!
 ## ⚡ Skills:
 
 ### Programming Languages:
-- C
-- C++
-- Java
-- Javascript
-- Python
+C | C++ | Java | JavaScript | Python
 
 ### Web Development:
-- Express.js
-- Node.js
-- React.js
+Express.js | Node.js | React.js
 
 ### Cloud Computing:
-- AWS IAM (Identity and Access Management)
-- AWS Lambda
-- AWS Layers
-- AWS SES (Simple Email Service)
+AWS IAM | AWS Lambda | AWS Layers | AWS SES
 
 ### Tools and Technologies:
-- Pandas
-- BeautifulSoup4
-- Selenium
-- Unittest
-- RESTful APIs
-- JUnit
-- DiscordJS
+Pandas | BeautifulSoup4 | Selenium | Unittest | RESTful APIs | JUnit | DiscordJS
 
 ### Databases:
-- MySQL
-- PostgreSQL
-- MongoDB
+MySQL | PostgreSQL | MongoDB
