@@ -5,9 +5,35 @@ Feel free to connect with me on Linked or contact me through Email!
 [![Outlook Badge](https://img.shields.io/badge/-Outlook-0078D4?style=flat-square&logo=Microsoft-Outlook&logoColor=white&link=mailto:joshzheng99@outlook.com)](mailto:joshzheng99@outlook.com)
 
 ## ⚡ Skills:
+
+### Programming Languages:
+- C
+- C++
+- Java
+- Javascript
+- Python
+
+### Web Development:
+- Express.js
 - Node.js
 - React.js
-- Express.js
-- Java
-- C++
-- Python
+
+### Cloud Computing:
+- AWS IAM (Identity and Access Management)
+- AWS Lambda
+- AWS Layers
+- AWS SES (Simple Email Service)
+
+### Tools and Technologies:
+- Pandas
+- BeautifulSoup4
+- Selenium
+- Unittest
+- RESTful APIs
+- JUnit
+- DiscordJS
+
+### Databases:
+- MySQL
+- PostgreSQL
+- MongoDB
