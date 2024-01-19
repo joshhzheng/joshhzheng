@@ -7,7 +7,7 @@ Feel free to connect with me on Linked or contact me through Email!
 ## ⚡ Skills:
 
 ### Programming Languages:
-C | C++ | Java | JavaScript | Python
+C | C++ | Java | JavaScript | Python | SQL | R
 
 ### Web Development:
 Express.js | Node.js | React.js
