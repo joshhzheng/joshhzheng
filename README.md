@@ -7,10 +7,10 @@ Feel free to connect with me on Linked or contact me through Email :)
 ## ⚡ Tech Stack:
 
 ### Programming Languages:
-C | C++ | Java | JavaScript | Python | SQL | R
+C | C++ | Java | JavaScript | Python | Ruby | SQL | R
 
 ### Web Development:
-Express.js | Node.js | React.js
+Express.js | Node.js | React.js | Ruby on Rails
 
 ### Cloud Computing:
 AWS IAM | AWS Lambda | AWS Layers | AWS SES
