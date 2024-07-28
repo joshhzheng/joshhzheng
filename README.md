@@ -19,4 +19,4 @@ AWS IAM | AWS Lambda | AWS Layers | AWS SES
 Pandas | BeautifulSoup4 | Selenium | Unittest | RESTful APIs | JUnit | DiscordJS
 
 ### Databases:
-SQL | NoSQL | PostgreSQL | MongoDB
+SQL | NoSQL | MySQL | PostgreSQL | MongoDB
